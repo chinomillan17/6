@@ -1,0 +1,9 @@
+/*Documentos css*/
+
+body{background-color: rgb(93, 93, 95);}
+
+h1 {color: rgb(255, 255, 255);
+   text-align: center;}
+        
+   h2, h4 { color: red; }
+   h5, h6 {color: blue;}
