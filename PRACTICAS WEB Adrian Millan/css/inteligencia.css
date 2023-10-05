@@ -1,0 +1,36 @@
+/*Documentoscss*/
+*{margin: 0;}
+    
+    body{background-color: rgb(58, 58, 58);
+        font-family: 'Gloock', serif;
+        font-family: 'Playfair Display', serif;
+        font-family: 'Roboto Condensed', sans-serif;}
+
+h1{text-align: center;
+   background-color: rgb(58, 58, 58);
+   text-transform: uppercase;
+   color: rgb(255, 255, 255);
+   padding: 30px 15px 15px;
+   margin-bottom: 20px;}
+
+p{color: rgb(255, 255, 255);
+    padding: 20px 0px;}
+
+.imagen{width: 100%;
+    display: flex;
+    margin: auto;}
+
+.listas{margin: 20px 0px;}
+
+.contenido li{padding: 5px, 0px;}
+
+
+li{color: white;
+   margin: 5%;}
+
+.video{width: 80%;
+    display: flex;
+    margin: auto;}
+
+
+
