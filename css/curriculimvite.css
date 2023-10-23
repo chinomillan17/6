@@ -1,8 +1,9 @@
 /*Documento css*/
 
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
-body{margin: 0}
+
+body{margin: 0;
+    font-size: 'Playfair Display', serif;}
 
 .container_16{max-width: 860px;
 	          width: 80%;
@@ -31,8 +32,8 @@ body{margin: 0}
 **********/
 
 header {
-  background: #33a4c9;
-  border-bottom: 1px solid #848484;
+  background: rgb(51, 164, 201);
+  border-bottom: 1px solid rgb(132, 132, 132);
   padding: 19px 0;
   overflow: hidden;
 }
@@ -45,7 +46,7 @@ header figure {
 
 header figure img {
   border-radius: 90px;
-  border: solid #fff;
+  border: solid rgb(255, 255, 255);
   height: 175px;
   width: 175px;
   position: relative;
@@ -57,13 +58,13 @@ header hgroup {
 }
 
 header hgroup h1 {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font: 400 40px oswald, sans-serif;
   text-shadow: 1px 1px 0 rgba(0,0,0,.3);
 }
 
 header hgroup h2 {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-style: italic;
   font: 400 20px oswald,sans-serif;
   text-shadow: 1px 1px 0 rgba(0,0,0,.3);
