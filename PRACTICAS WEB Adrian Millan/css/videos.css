@@ -12,7 +12,8 @@ color: rgb(121, 178, 228);}
 
 
 body{background-image: url(/img/magicpattern-grid-pattern-1695338796087.png);
-    font-family: 'Playfair Display', serif;}
+    font-family: 'Playfair Display', serif;
+    color: rgb(144, 148, 83);}
 
 
 .cabecera small{text-align: center;
@@ -20,11 +21,11 @@ width: 100%;
 display: block;
 margin-top: 15px;
 font-size: 1.3em;
-color: white;}
+color: rgb(144, 148, 83);}
 
 
 .principal table{margin: auto;
-color: white;}
+color: rgb(121, 178, 228);}
 
 
 .videos{width: 80%;

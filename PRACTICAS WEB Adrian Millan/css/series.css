@@ -1,0 +1,35 @@
+/*Documento css*/
+
+*{margin: 1px;}
+
+h1{text-align: center;}
+
+
+.galeria{width: 100%;
+        padding:15px;}
+
+.contaier{display: flex;
+          min-height: 350px;
+          padding: 15px;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: flex-start;}
+
+.item{width: 30%;
+      height: 250px;
+      text-align: center;}
+
+.item span{font-size: 2.5em !important;}
+
+.img{margin: 0%, 30px;}
+
+body{font-family: 'Fira Sans', sans-serif;}
+
+p{text-align: center;}
+
+body{padding: 20px 0px;
+    background-color: rgb(95, 160, 51);
+    color: rgb(255, 255, 255);
+    padding: 20px, 0px;
+    color: whitesmoke;}

@@ -1,0 +1,26 @@
+/*documeto css*/
+
+*{margin: 0;}
+
+.galeria{width: 100%;
+        background-color: rgb(97, 95, 95);
+        padding:15px;
+        box-sizing: border-box;}
+
+.contaier{display: flex;
+          min-height: 350px;
+          background-color: rgb(0, 0, 0);
+          padding: 15px;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: flex-end;}
+
+.item{width: 15%;
+      height: 120px;
+      background: rgb(255, 255, 255);}
+
+
+.dos{align-self: flex-start;}
+
+.item span{font-size: 2em !important;}
