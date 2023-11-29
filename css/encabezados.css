@@ -3,9 +3,18 @@
 body{background-color: rgb(93, 93, 95);}
 
 h1 {color: rgb(255, 255, 255);
-   text-align: center;}
+   text-align: center;
+   font-family: 'sunday_romantic_demoregular';}
         
    h2, h3, h4 { color: rgb(255, 255, 255); }
    h5, h6 {color: rgb(255, 255, 255);}
 
    p{color: wheat;}
+
+   @font-face {
+      font-family: 'sunday_romantic_demoregular';
+      src: url('/fonts/sundayromantic-regular_demo-webfont.woff') format('woff2'),
+           url('/fonts/sundayromantic-regular_demo-webfont.woff2') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  
